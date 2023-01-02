@@ -1,5 +1,5 @@
-[![](https://jitpack.io/v/BanRossyn/CircleImageView.svg)](https://jitpack.io/#BanRossyn/CircleImageView)
-![GitHub](https://img.shields.io/github/license/banrossyn/CircleImageView)
+[![](https://jitpack.io/v/OmaPrakash/CircleImageView.svg)](https://jitpack.io/#OmaPrakash/CircleImageView)
+![GitHub](https://img.shields.io/github/license/OmaPrakash/CircleImageView)
 
 <p align="center">
   <h1 align="center">CircleImageView</h1>
@@ -60,7 +60,7 @@ Then, add the library to your module `build.gradle`
 
 ```gradle
 dependencies {
-  implementation 'com.github.BanRossyn:CircleImageView:(letest Release)'
+  implementation 'com.github.OmaPrakash:CircleImageView:(letest Release)'
 }
 ```
 
@@ -89,7 +89,7 @@ dependencies {
 
 ```
 <dependency>
-	    <groupId>com.github.BanRossyn</groupId>
+	    <groupId>com.github.OmaPrakash</groupId>
 	    <artifactId>CircleImageView</artifactId>
 	    <version>Tag</version>
 </dependency>
